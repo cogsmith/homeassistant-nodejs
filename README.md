@@ -1,2 +1,1 @@
-# hx-addon-hxjs
- HXJS: Home Assistant JavaScript Application Mananger
+# **HXJS**: **NodeJS** + **NPM** + **PM2** + **WebUI** = Home Assistant JS Application Manager
