@@ -1,1 +1,3 @@
-# **HXJS**: **NodeJS** + **NPM** + **PM2** + **WebUI** = Home Assistant JS Application Manager
+# **HXJS**: Home Assistant JS Application Manager
+
+## **NodeJS** + **NPM** + **PM2** + **WebUI**
