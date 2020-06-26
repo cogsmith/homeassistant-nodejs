@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/COGSMITH/HXJS/master/HXJS/logo.png)
+
 # HXJS 
 
 ## Home Assistant JS Application Manager
@@ -6,8 +8,8 @@
   
 ### Scripts Path = /config/hxjs/apps
 
-*  **boot** Runs once at startup
+*  **boot** Run once at startup
 
-*  **loop** Run continuously, restart if exits
+*  **loop** Run at startup and restart if script exits
 
-*  **adhoc** Runs on demand only
+*  **adhoc** Run on demand only
