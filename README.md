@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/COGSMITH/HXJS/master/HXJS/logo.png)
+
 # HXJS 
 
 ## Home Assistant JS Application Manager
