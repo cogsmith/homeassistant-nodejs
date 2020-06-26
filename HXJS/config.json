@@ -1,0 +1,18 @@
+{
+  "name": "HXJS",
+  "version": "1.03",
+  "slug": "hxjs",
+  "panel_icon": "mdi:language-javascript",
+  "description": "JavaScript Application Manager",
+  "webui": "http://[HOST]:[PORT:8888]",
+  "url": "https://github.com/COGSMITH/HXJS",
+  "arch": ["aarch64", "amd64", "armhf", "armv7", "i386"],
+  "startup": "application",
+  "boot": "auto",
+  "host_network": true,
+  "ingress": true,
+  "ingress_port": 8888,
+  "options": {},
+  "map": ["config:rw"],
+  "schema": {}
+}
